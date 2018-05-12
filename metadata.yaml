@@ -21,6 +21,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Camilo_Castelo_Branco
     - http://en.wikipedia.org/wiki/Camilo_Castelo_Branco
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30461#A-Morgadinha-de-Val-D-Amores-Entre-a-Flauta-e-a-ViolaTheatro-Comico-de-Camillo-Castello-Branc_
 gutenberg_bookshelf: PT Teatro
 gutenberg_issued: '2009-11-13'
 gutenberg_type: Text
